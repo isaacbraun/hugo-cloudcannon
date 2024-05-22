@@ -6,3 +6,7 @@ draft = false
 ## Welcome to the Administration homepage
 
 This is the lorem ipsum dolor sit amet.
+
+&nbsp;
+
+**This content was added through CloudCannon.**
