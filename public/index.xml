@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Test</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hugo Test</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 11:38:29 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Administration</title>
+      <link>http://localhost:1313/administration/</link>
+      <pubDate>Wed, 22 May 2024 11:38:29 -0400</pubDate>
+      <guid>http://localhost:1313/administration/</guid>
+      <description>Welcome to the Administration section </description>
+    </item>
+  </channel>
+</rss>
